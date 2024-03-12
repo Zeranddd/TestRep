@@ -1,3 +1,13 @@
 git status - (проверка статуса репозитория)
 
 git clone {ссылка} - (клонирование репозитория)
+
+cd {название папки}
+
+git add {название файла} - (добавление одного файла)
+git add . - (добавление всех файлов)
+
+git commit -am "feat: make test repository" - (добавление)
+git commit -am "fix: make test repository" - (изменение чего то)
+
+git push - (отправка изменений)
